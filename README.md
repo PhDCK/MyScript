@@ -1,2 +1,2 @@
 # MyScript
-python+Git
+This is second commit from master
